@@ -1,4 +1,4 @@
-// Small ALU used by the learning CPU.
+
 // op: 000 ADD, 001 SUB, 010 AND, 011 OR, 100 XOR, 101 SLT signed.
 module alu (
     input  wire [31:0] a,
